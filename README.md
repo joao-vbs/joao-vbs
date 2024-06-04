@@ -14,7 +14,7 @@
   
   - 💻 I’m currently studying Data Science at LE WAGON
 
-  - 🌟 My dream is to one day help large companies achieve exceptional results in all areas with AI and Machine Learning.
+  - 🌟 Helping companies achieve exceptional results in all areas with Management, AI and Machine Learning.
 </p>
 
 <!-- Dropdown -->
