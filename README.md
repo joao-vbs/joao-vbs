@@ -6,20 +6,20 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm JOAO! A passionate BUSINESS MANAGEMENT CONSULTANT and Data Science student from Spain/Brazil.
+  Hi 👋, I'm JOAO! A passionate BUSINESS MANAGEMENT CONSULTANT and DATA SCIENCE student from Spain/Brazil.
 
   - ⚡Senior Business Management Consultant with extensive international experience and in various sectors.
   
   - 🌱 I’m currently studying Data Science and Computer Science at LE WAGON
 
-  - 🔭 I am looking for my first job opportunity in Data Science. my dream is to one day help large companies achieve exceptional results in all areas with AI and Machine Learning.
+  - 🔭 I am looking for my first job opportunity in Data Science. My dream is to one day help large companies achieve exceptional results in all areas with AI and Machine Learning.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 38 years old, currently living in Spain. I have fluency in English, Spanish and Portuguese and have experience with SQL, Python, Data Science, Data visualization, and Machine Learning I have a extensive knowledge in the implementation of management methodologies (PDCA, Six Sigma, Ishikawa, Implementation of Results, Project Management) and Data Analysis (CRISP - DM, K-Means Clustering, Logistic Regression, Decision Tree, Machine Learning) working on projects that obtained significant increases in sales and cost reduction in all customers. 
+  - 💬 I am 38 years old, currently living in Spain. I have fluency in English, Spanish and Portuguese and have experience with SQL, Python, Data Science, Data visualization, and Machine Learning. I have a extensive knowledge in the implementation of management methodologies (PDCA, Six Sigma, Ishikawa, Implementation of Results, Project Management) and Data Analysis (CRISP - DM, K-Means Clustering, Logistic Regression, Decision Tree, Machine Learning) working on projects that obtained significant increases in sales and cost reduction in all customers. 
     
 </details>
 
