@@ -21,7 +21,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 38 years old, currently living in Spain. I have fluency in English, Spanish and Portuguese and have experience with SQL, Python, Data Science, Data visualization, and Machine Learning. I have a extensive knowledge in the implementation of management methodologies (PDCA, Six Sigma, Ishikawa, Implementation of Results, Project Management) and Data Analysis (CRISP - DM, K-Means Clustering, Logistic Regression, Decision Tree, Machine Learning) working on projects that obtained significant increases in sales and cost reduction in all customers. 
+  - 💬 I am 38 years old, currently living in Spain. I have fluency in English, Spanish and Portuguese and have experience with SQL, Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), Data Science, Data visualization (Power BI), Data Modeling and Machine Learning. I have a extensive knowledge in the implementation of management methodologies (PDCA, Six Sigma, Ishikawa, Implementation of Results, Project Management) and Data Analysis (Data Collection and Extraction, Data Processing and Cleaning, Exploratory Data Analysis (EDA), CRISP - DM, K-Means Clustering, Logistic Regression, Decision Tree, Machine Learning) working on projects that obtained significant increases in sales and cost reduction in all customers. 
     
 </details>
 
