@@ -8,11 +8,11 @@
 <p>
   Hi 👋, I'm JOAO! A passionate BUSINESS MANAGEMENT CONSULTANT and DATA SCIENCE student from Spain/Brazil.
 
-  - ⚡ Senior Business Management Consultant with extensive international experience and in various sectors.
+  - ⚡ Senior Business Management & Big Data Consultant with extensive international experience in various sectors.
 
   - 👨‍🎓 Executive Master in Management, ESADE Business School.
   
-  - 💻 I’m currently studying Data Science at LE WAGON
+  - 💻 Data Science at LE WAGON.
 
   - 🌟 Helping companies achieve exceptional results in all areas with Management, Data Analysis, AI and Machine Learning.
 </p>
