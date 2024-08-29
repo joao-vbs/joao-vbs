@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm JOAO! A passionate BUSINESS MANAGEMENT CONSULTANT and DATA SCIENCE student from Spain/Brazil.
+  Hi 👋, I'm JOAO! A passionate BUSINESS MANAGEMENT & BIG DATA CONSULTANT from Spain/Brazil.
 
   - ⚡ Senior Business Management & Big Data Consultant with extensive international experience in various sectors.
 
